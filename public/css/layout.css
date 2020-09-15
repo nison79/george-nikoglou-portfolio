@@ -35,7 +35,7 @@ header {
   height: 800px;
   min-height: 500px;
   width: 100%;
-  background: #161415 url(../images/henry-be-IicyiaPYGGI-unsplash.jpg)
+  background: #161415 url(../images/jeremy-bishop-ZpfHDnQIhFA-unsplash.jpg)
     no-repeat top center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
@@ -235,6 +235,7 @@ ul#nav li.current a {
   width: 120px;
   height: 120px;
   border-radius: 100%;
+  object-fit: contain;
 }
 #about .contact-details {
   width: 41.66667%;

@@ -103,13 +103,13 @@
       {
         "title": "Amazon Clone",
         "category": "Amazon Clone built with ReactJS",
-        "image": "public/images/Amazon logo.png",
+        "image": "public/images/portfolio/Amazon logo.png",
         "url": "https://github.com/nison79/amzon-clone"
       },
       {
         "title": "Instagram Clone",
         "category": "Instagram Clone built with ReactJS",
-        "image": "public/images/instagram-logo.png",
+        "image": "public/images/portfolio/instagram-logo.png",
         "url": "https://github.com/nison79/insta-app"
       }
     ]

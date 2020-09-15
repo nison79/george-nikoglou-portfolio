@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "George Nikoglou",
+    "occupation": "ReactJS Developer & Designer",
+    "description": "Full Stack React Developer & Designer",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is George, I'm a Full Stack ReactJS Developer. Currently I'm working as  freelancer while also coaching ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "georgenison@gmail.com",
+    "phone": "+30 6945419898",
+    "address": {
+      "street": "P.Dimitriou 20",
+      "city": "Drama",
+      "state": "Greece",
+      "zip": "66132"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/gnikoglou",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/george-nikoglou-54b24532/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/georgenikoglou/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nison79",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+
+
+    "education": [
+      {
+        "school": "Panteion University of Athens",
+        "degree": "International Relationship and European Studies",
+        "graduated": "March 2003",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Kapodistriakon  University of Athens",
+        "degree": "Human Resource Management",
+        "graduated": "May 2008",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "Lindar Media",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Building MrQ, a gambling website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Adobe Photoshop && Adobe XD",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "R",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [  
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazon-clone.jpeg",
+        "url": "https://github.com/nison79/amzon-clone"
+      },
+      {
+        "title": "Instagram Clone",
+        "category": "Instagram Clone built with ReactJS",
+        "image": "instagram-clone.jpeg",
+        "url": "https://github.com/nison79/insta-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "The willing to make my projects well executed is something I admire, and George has it.",
+        "user": "K.Orfanidis"
+      },
+      {
+        "text": "I hope i had the skills and passion of that person. It's really hard to find individual that are devoted to the goal",
+        "user": "G.Parasxidis"
+      }
+    ]
+  }
+}

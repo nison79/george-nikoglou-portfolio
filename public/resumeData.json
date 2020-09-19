@@ -14,7 +14,7 @@
       "state": "Greece",
       "zip": "66132"
     },
-    "website": "",
+    "website": "https://affectionate-roentgen-1abb7e.netlify.app/",
     "resumedownload": "",
     "social": [
       {
@@ -111,6 +111,12 @@
         "category": "Instagram Clone built with ReactJS",
         "image": "instagram-logo.png",
         "url": "https://github.com/nison79/insta-app"
+      },
+      {
+        "title": "YouTube Clone",
+        "category": "You Tube Clone built with ReactJS",
+        "image": "you-tube-logo.png",
+        "url": "https://github.com/nison79/youtube-clone"
       }
     ]
   },

@@ -2,7 +2,7 @@
   "main": {
     "name": "George Nikoglou",
     "occupation": "ReactJS Developer & Designer",
-    "description": "Full Stack React Developer & Designer",
+    "description": "",
     "image": "George-Clouds BW.jpg",
     "bio": "My name is George, I'm a Full Stack ReactJS Developer. Currently I'm working as  freelancer while also coaching ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -48,13 +48,13 @@
         "school": "Panteion University of Athens",
         "degree": "International Relationship and European Studies",
         "graduated": "March 2003",
-        "description": "Graduated with Distinction"
+        "description": ""
       },
       {
         "school": "Kapodistriakon  University of Athens",
         "degree": "Human Resource Management",
         "graduated": "May 2008",
-        "description": "Graduated with Distinction"
+        "description": ""
       }
     ],
     "work": [

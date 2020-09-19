@@ -63,14 +63,14 @@ header .banner-text {
   width: 100%;
 }
 header .banner-text h1 {
-  font: 90px/1.1em "opensans-bold", sans-serif;
-  color: #fff;
+  font: 100px/1.8em "opensans-bold", sans-serif;
+  color: rgb(203, 203, 203);
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
   text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8);
 }
 header .banner-text h3 {
-  font: 18px/1.9em "librebaskerville-regular", serif;
+  font: 30px/1.9em "librebaskerville-regular", serif;
   color: #fafafa;
   margin: 0 auto;
   width: 70%;
@@ -91,7 +91,7 @@ header .banner-text hr {
 header .social {
   margin: 24px 0;
   padding: 0;
-  font-size: 30px;
+  font-size: 40px;
   text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.8);
 }
 header .social li {
@@ -103,7 +103,7 @@ header .social li a {
   color: #fff;
 }
 header .social li a:hover {
-  color: #11abb0;
+  color: #13ced5;
 }
 
 /* scrolldown link */
@@ -143,7 +143,7 @@ header .scrolldown a:hover {
 
 /* nav-wrap */
 #nav-wrap {
-  font: 12px "opensans-bold", sans-serif;
+  font: 15px "opensans-bold", sans-serif;
   width: 100%;
   text-transform: uppercase;
   letter-spacing: 2.5px;
@@ -198,7 +198,7 @@ ul#nav li a:active {
   background-color: transparent !important;
 }
 ul#nav li.current a {
-  color: #f06000;
+  color: #000000;
 }
 
 /* ------------------------------------------------------------------ */
@@ -241,6 +241,7 @@ ul#nav li.current a {
   width: 41.66667%;
 }
 #about .download {
+  
   width: 58.33333%;
   padding-top: 6px;
 }
@@ -457,22 +458,23 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-  background: #ebeeee;
-  padding-top: 90px;
+  background: #f5f5f5;
+  padding-top: 25px;
   padding-bottom: 60px;
 }
 #portfolio h1 {
-  font: 15px/24px "opensans-semibold", sans-serif;
+  font: 22px/24px "opensans-semibold", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   text-align: center;
   margin-bottom: 48px;
-  color: #95a3a3;
+  color: #000606;
 }
 
 #portfolio-wrapper {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 /* Portfolio Content */
